@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/inventory-app/static/js/main.0aaa51d7.chunk.js",
-    "main.js.map": "/inventory-app/static/js/main.0aaa51d7.chunk.js.map",
+    "main.js": "/inventory-app/static/js/main.6a39b010.chunk.js",
+    "main.js.map": "/inventory-app/static/js/main.6a39b010.chunk.js.map",
     "runtime-main.js": "/inventory-app/static/js/runtime-main.b892d02b.js",
     "runtime-main.js.map": "/inventory-app/static/js/runtime-main.b892d02b.js.map",
     "static/css/2.28deafa3.chunk.css": "/inventory-app/static/css/2.28deafa3.chunk.css",
-    "static/js/2.41543515.chunk.js": "/inventory-app/static/js/2.41543515.chunk.js",
-    "static/js/2.41543515.chunk.js.map": "/inventory-app/static/js/2.41543515.chunk.js.map",
+    "static/js/2.514245b6.chunk.js": "/inventory-app/static/js/2.514245b6.chunk.js",
+    "static/js/2.514245b6.chunk.js.map": "/inventory-app/static/js/2.514245b6.chunk.js.map",
     "index.html": "/inventory-app/index.html",
     "static/css/2.28deafa3.chunk.css.map": "/inventory-app/static/css/2.28deafa3.chunk.css.map",
-    "static/js/2.41543515.chunk.js.LICENSE.txt": "/inventory-app/static/js/2.41543515.chunk.js.LICENSE.txt"
+    "static/js/2.514245b6.chunk.js.LICENSE.txt": "/inventory-app/static/js/2.514245b6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b892d02b.js",
     "static/css/2.28deafa3.chunk.css",
-    "static/js/2.41543515.chunk.js",
-    "static/js/main.0aaa51d7.chunk.js"
+    "static/js/2.514245b6.chunk.js",
+    "static/js/main.6a39b010.chunk.js"
   ]
 }
