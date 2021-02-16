@@ -1,23 +1,31 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import Links from './components/Links'
+import { ToastContainer } from 'react-toastify'; // import Toastify library
+import 'react-toastify/dist/ReactToastify.css'; // importa CSS Toastify styles
+// This App use Bootswatch Css Library
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container p-4">
+      <Links />
+
+
+      {/*This tag is used to the ToastContainer Characters  */}
+
+      <ToastContainer
+        position="top-right"
+        autoClose={5000}
+        hideProgressBar={false}
+        newestOnTop={false}
+        closeOnClick
+        rtl={false}
+        pauseOnFocusLoss
+        draggable
+        pauseOnHover
+        limit={3}
+      />
+      {/* Same as */}
+      <ToastContainer />
     </div>
   );
 }
