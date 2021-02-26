@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/inventory-app/static/js/main.8f223299.chunk.js",
-    "main.js.map": "/inventory-app/static/js/main.8f223299.chunk.js.map",
+    "main.js": "/inventory-app/static/js/main.b3223ac8.chunk.js",
+    "main.js.map": "/inventory-app/static/js/main.b3223ac8.chunk.js.map",
     "runtime-main.js": "/inventory-app/static/js/runtime-main.b892d02b.js",
     "runtime-main.js.map": "/inventory-app/static/js/runtime-main.b892d02b.js.map",
     "static/css/2.4b6cbd0e.chunk.css": "/inventory-app/static/css/2.4b6cbd0e.chunk.css",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.b892d02b.js",
     "static/css/2.4b6cbd0e.chunk.css",
     "static/js/2.5e243382.chunk.js",
-    "static/js/main.8f223299.chunk.js"
+    "static/js/main.b3223ac8.chunk.js"
   ]
 }
