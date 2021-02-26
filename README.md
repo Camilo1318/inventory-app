@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Informacion de la aplicacion
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Ejemplo practico de una aplicacion que maneja el inventario de productos de una empresa comercializadora, utilizando el framework de JS React..
 
 ## Available Scripts
 
