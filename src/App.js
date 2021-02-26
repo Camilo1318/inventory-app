@@ -6,9 +6,8 @@ import 'react-toastify/dist/ReactToastify.css'; // importa CSS Toastify styles
 
 function App() {
   return (
-    <div className="container p-4">
+    <div className="container py-4">
       <Links />
-
 
       {/*This tag is used to the ToastContainer Characters  */}
 
